@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class NewBehaviourScript : MonoBehaviour
 {
-    public float power = 10.0f;
+    public float power = 100000.0f;
     private Animator mAvatar;
     // Start is called before the first frame update
     void Start()
